@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome SOULdier 👋
 
 For compiling a smart contract [TOMB](https://github.com/phantasma-io/TOMB)
 
