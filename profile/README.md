@@ -6,6 +6,12 @@ For interacting with the chain/wallets via Typescript [phantasma-ts](https://git
 
 For using it in Unity [PhantasmaLinkClient](https://github.com/phantasma-io/PhantasmaLinkClient) 
 
+## Wallets 
+
+For a Desktop Wallet use [Poltergeist](https://github.com/phantasma-io/Poltergeist/releases) 
+
+For a Web Extension Wallet use [Ecto](https://github.com/phantasma-io/Ecto/releases)
+
 ## Documentation
 
 For setting up your local env. [Chain Docs](https://phantasma.gitbook.io/phantasmachain/)
