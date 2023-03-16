@@ -6,6 +6,14 @@ For interacting with the chain/wallets via Typescript [phantasma-ts](https://git
 
 For using it in Unity [PhantasmaLinkClient](https://github.com/phantasma-io/PhantasmaLinkClient) 
 
+## Documentation
+
+For setting up your local env. [Chain Docs](https://phantasma.gitbook.io/phantasmachain/)
+
+For creating a [Smart contract](https://phantasma.gitbook.io/tomb/)
+
+For Deploying a Smart Contract [Deploying](https://phantasma.gitbook.io/developers/tools-and-sdks/tools-and-sdks/smart-contracts/how-to-deploy)
+
 <!--
 
 **Here are some ideas to get you started:**
