@@ -10,7 +10,7 @@ For using it in Unity [PhantasmaLinkClient](https://github.com/phantasma-io/Phan
 
 For a Desktop Wallet use [Poltergeist](https://github.com/phantasma-io/Poltergeist/releases) 
 
-For a Web Extension Wallet use [Ecto](https://github.com/phantasma-io/Ecto/releases)
+For a Web Extension Wallet use [Ecto Wallet](https://chrome.google.com/webstore/detail/ecto-wallet/bgjogpoidejdemgoochpnkmdjpocgkha) 
 
 ## Documentation
 
