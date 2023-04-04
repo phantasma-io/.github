@@ -31,10 +31,9 @@ For compiling a smart contract [TOMB](https://github.com/phantasma-io/TOMB)
 
 <!--
 For testing/deploy you smart contract and interacting with the chain. [Contract]()
+-->
 
 Some smart contracts examples [Phantasma-Contracts](https://github.com/phantasma-io/Phantasma-Contracts)
-
--->
 
 ## Documentation
 
