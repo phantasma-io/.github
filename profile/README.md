@@ -6,6 +6,11 @@ For interacting with the chain/wallets via Typescript [phantasma-ts](https://git
 
 For using it in Unity [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
 
+For using it with Python [Phantasma-Py](https://github.com/phantasma-io/Phantasma-Py)
+
+For using it with Go [Phantasma-go](https://github.com/phantasma-io/phantasma-go)
+
+
 ## Wallets 
 
 For a Desktop Wallet use [Poltergeist](https://github.com/phantasma-io/Poltergeist/releases) 
