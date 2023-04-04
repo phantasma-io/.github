@@ -6,6 +6,15 @@ For interacting with the chain/wallets via Typescript [phantasma-ts](https://git
 
 For using it in Unity [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
 
+<!-- 
+
+For using it with Godot [Phantasma-CPP](https://github.com/phantasma-io/Phantasma-Godot)
+
+For using it with C++ [Phantasma-CPP](https://github.com/phantasma-io/Phantasma-CPP)
+
+For using it with Rust [Phantasma-CPP](https://github.com/phantasma-io/Phantasma-Rust)
+-->
+
 For using it with Python [Phantasma-Py](https://github.com/phantasma-io/Phantasma-Py)
 
 For using it with Go [Phantasma-go](https://github.com/phantasma-io/phantasma-go)
