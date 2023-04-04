@@ -1,7 +1,5 @@
 ## Welcome SOULdier 👋
 
-For compiling a smart contract [TOMB](https://github.com/phantasma-io/TOMB)
-
 For interacting with the chain/wallets via Typescript [phantasma-ts](https://github.com/phantasma-io/phantasma-ts)
 
 For using it in Unity [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
@@ -26,6 +24,17 @@ For using it with Go [Phantasma-go](https://github.com/phantasma-io/phantasma-go
 For a Desktop Wallet use [Poltergeist](https://github.com/phantasma-io/Poltergeist/releases) 
 
 For a Web Extension Wallet use [Ecto Wallet](https://chrome.google.com/webstore/detail/ecto-wallet/bgjogpoidejdemgoochpnkmdjpocgkha) 
+
+## Smart Contracts
+
+For compiling a smart contract [TOMB](https://github.com/phantasma-io/TOMB)
+
+<!--
+For testing/deploy you smart contract and interacting with the chain. [Contract]()
+
+Some smart contracts examples [Phantasma-Contracts](https://github.com/phantasma-io/Phantasma-Contracts)
+
+-->
 
 ## Documentation
 
