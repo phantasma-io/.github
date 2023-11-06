@@ -1,5 +1,7 @@
 ## Welcome SOULdier 👋
 
+For running a local node of the Phantasma Chain [phantasma-ng](https://github.com/phantasma-io/phantasma-ng)
+
 For interacting with the chain/wallets via Typescript [phantasma-ts](https://github.com/phantasma-io/phantasma-ts)
 
 For using it in Unity [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
@@ -9,7 +11,7 @@ For using it with C++ [Phantasma-CPP](https://github.com/phantasma-io/Phantasma-
 <!-- 
 For using it with Godot [Phantasma-Godot](https://github.com/phantasma-io/Phantasma-Godot)
 
-For using it with Kotlin [Phantasma-Kotlin](https://github.com/phantasma-io/Phantasma-Godot)
+For using it with Kotlin [Phantasma-Kotlin](https://github.com/phantasma-io/Phantasma-Kotlin)
 
 For using it with Rust [Phantasma-Rust](https://github.com/phantasma-io/Phantasma-Rust)
 -->
