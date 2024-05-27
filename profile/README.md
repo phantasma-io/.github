@@ -23,7 +23,7 @@ For using it with Go [Phantasma-go](https://github.com/phantasma-io/phantasma-go
 
 ## Wallets 
 
-For a Desktop Wallet use [Poltergeist](https://github.com/phantasma-io/Poltergeist/releases) 
+For a Desktop Wallet use [Poltergeist Lite](https://github.com/phantasma-io/PoltergeistLite/releases) 
 
 For a Web Extension Wallet use [Ecto Wallet](https://chrome.google.com/webstore/detail/ecto-wallet/bgjogpoidejdemgoochpnkmdjpocgkha) 
 
