@@ -1,10 +1,10 @@
 ## Welcome SOULdier 👋
 
-For running a local node of the Phantasma Chain [phantasma-ng](https://github.com/phantasma-io/phantasma-ng)
+C# SDK for Phantasma Phoenix: [phantasmaphoenix-sdk-cs](https://github.com/phantasma-io/phantasmaphoenix-sdk-cs)
 
 For interacting with the chain/wallets via Typescript [phantasma-ts](https://github.com/phantasma-io/phantasma-ts)
 
-For using it in Unity [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
+Unity SDK for Phantasma Phoenix: [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
 
 For using it with C++ [Phantasma-CPP](https://github.com/phantasma-io/Phantasma-CPP)
 
