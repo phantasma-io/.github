@@ -14,11 +14,11 @@ For using it with Godot [Phantasma-Godot](https://github.com/phantasma-io/Phanta
 For using it with Kotlin [Phantasma-Kotlin](https://github.com/phantasma-io/Phantasma-Kotlin)
 -->
 
-For using it with Rust [Phantasma-Rust](https://github.com/phantasma-io/phantasma-sdk-rs)
+For using it with Rust [phantasma-sdk-rs](https://github.com/phantasma-io/phantasma-sdk-rs)
 
-For using it with Python [Phantasma-Py](https://github.com/phantasma-io/phantasma-sdk-py)
+For using it with Python [phantasma-sdk-py](https://github.com/phantasma-io/phantasma-sdk-py)
 
-For using it with Go [Phantasma-go](https://github.com/phantasma-io/phantasma-sdk-go)
+For using it with Go [phantasma-sdk-go](https://github.com/phantasma-io/phantasma-sdk-go)
 
 
 ## Wallets 
