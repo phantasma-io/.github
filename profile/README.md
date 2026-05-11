@@ -2,7 +2,7 @@
 
 C# SDK for Phantasma Phoenix: [phantasmaphoenix-sdk-cs](https://github.com/phantasma-io/phantasmaphoenix-sdk-cs)
 
-For interacting with the chain/wallets via Typescript [phantasma-ts](https://github.com/phantasma-io/phantasma-ts)
+For interacting with the chain/wallets via Typescript [phantasma-sdk-ts](https://github.com/phantasma-io/phantasma-sdk-ts)
 
 Unity SDK for Phantasma Phoenix: [Phantasma-UnitySDK](https://github.com/phantasma-io/Phantasma-UnitySDK) 
 
